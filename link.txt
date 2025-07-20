@@ -1,0 +1,2 @@
+Github = https://github.com/vikeshjha/3W
+Netlify = https://3wvikesh.netlify.app/
